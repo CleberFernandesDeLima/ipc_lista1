@@ -9,9 +9,9 @@ int main() {
 
     scanf("%d", &x);
 
-    printf("O antecessor de %d é %d \n ", x, x-1);
+    printf("O antecessor de %d é %d \n", x, x-1);
 
-    printf("O sucessor de %d é %d \n ", x, x+1);
+    printf("O sucessor de %d é %d \n", x, x+1);
 
     return 0;  
 
